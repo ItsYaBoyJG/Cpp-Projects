@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\AggravationMetric">
+      <UniqueIdentifier>{ec357f81-a0f2-45da-8904-bc400e38df5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\AvgRain">
+      <UniqueIdentifier>{d2987944-106f-4399-ab7d-f36a7c7fd7aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\AvgTestScores">
+      <UniqueIdentifier>{a7eb3314-7fdf-4f8d-bff6-e8df083aa684}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CollatzConjecture">
+      <UniqueIdentifier>{4e3b0c82-4ca9-4e51-94e3-586f10262cc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MilesPerGallon">
+      <UniqueIdentifier>{d6c3a0ed-ee8a-4854-8101-7f46c0717789}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\QuadraticEquation">
+      <UniqueIdentifier>{55bd926d-f420-40e4-99d8-0d5a0b2b8ca1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SortedArrayToBST">
+      <UniqueIdentifier>{83979e29-9de9-499b-92e7-6c3a91eeec4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\TempConversions">
+      <UniqueIdentifier>{13883f02-f32e-4174-9ee4-8e994f21bb7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\TowerOfHanoi">
+      <UniqueIdentifier>{7ad8ccd3-201d-4b43-aed4-47905bfe35b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\WordGuessingGame">
+      <UniqueIdentifier>{b9a9ad9e-27a9-4547-812e-fef9183b2140}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Encoding">
+      <UniqueIdentifier>{3d84cee4-0a99-4717-9e9c-f18b2ad4566f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AggravationMetric.cpp">
+      <Filter>Source Files\AggravationMetric</Filter>
+    </ClCompile>
+    <ClCompile Include="AvgRain.cpp">
+      <Filter>Source Files\AvgRain</Filter>
+    </ClCompile>
+    <ClCompile Include="AvgTestScores.cpp">
+      <Filter>Source Files\AvgTestScores</Filter>
+    </ClCompile>
+    <ClCompile Include="CollatzConjecture.cpp">
+      <Filter>Source Files\CollatzConjecture</Filter>
+    </ClCompile>
+    <ClCompile Include="MilesPerGallon.cpp">
+      <Filter>Source Files\MilesPerGallon</Filter>
+    </ClCompile>
+    <ClCompile Include="TowerOfHanoi.cpp">
+      <Filter>Source Files\TowerOfHanoi</Filter>
+    </ClCompile>
+    <ClCompile Include="TempConversion.cpp">
+      <Filter>Source Files\TempConversions</Filter>
+    </ClCompile>
+    <ClCompile Include="SortedArrayToBST.cpp">
+      <Filter>Source Files\SortedArrayToBST</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadraticEquation.cpp">
+      <Filter>Source Files\QuadraticEquation</Filter>
+    </ClCompile>
+    <ClCompile Include="WordGuessingGame.cpp">
+      <Filter>Source Files\WordGuessingGame</Filter>
+    </ClCompile>
+    <ClCompile Include="HuffmanEncoding.cpp">
+      <Filter>Source Files\Encoding</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
